@@ -1,0 +1,14 @@
+body{
+    background-color:#e9ecef;
+}
+.jumbotron{
+    background-color:#343a40;
+}
+p{
+    color:#f8f9fa;
+    font-weight: 500;
+}
+.input{
+    background-color:#f8f9fa;
+    outline:none;
+}
